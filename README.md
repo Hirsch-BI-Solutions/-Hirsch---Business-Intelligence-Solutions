@@ -15,8 +15,8 @@
 ```
 
 
-- 🔭 Harness data to enable you to guide product innovation and business growth 
-- :computer: Our stack : `Python, SQL, Power BI, Tableau,`
+- 🔭 Harnessing data to enable you to guide product innovation and business growth 
+- :computer: most used commands: `def...return, .(), show(),commit`
 - 🤔 We work with startup projects and medium businesses.
 - 😄 Pronouns: BI Analysis, Business Analysis, Data Visualization.
 
